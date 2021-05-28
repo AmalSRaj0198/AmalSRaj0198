@@ -1,0 +1,13 @@
+public class DNA_Content
+{
+  public static void main(String[] args)
+   {
+     String dna1="ATAGCGTAGCTAATGCCTA";
+     String dna2="GAATTGGCCCCTTGGATAG";
+        
+      
+       System.out.println(dna1+dna2);
+      
+      
+  }
+}
